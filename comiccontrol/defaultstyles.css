@@ -1,0 +1,132 @@
+.cc-comic{
+	margin: 0 auto;
+	margin-top: 0px;
+}
+.cc-comicbody{
+	text-align:center;
+	margin: 0;
+	padding:0;
+}
+.cc-newsheader{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+}
+.cc-publishtime{
+	padding-bottom:5px;
+	font-size:10px;
+}
+.cc-newsbody{
+	padding:10px 0px;
+}
+.cc-transcript{
+	padding:10px 0px;
+}
+.cc-tagline{
+	padding:5px 0px;
+}
+.cc-commentlink{
+	padding-top:10px;
+}
+.cc-commentheader{
+	padding-top:10px;
+	font-weight:bold;
+	font-size:24px;
+}
+.cc-chapterrow{
+	font-size:16px;
+	font-weight:bold;
+	padding:10px 0px;
+	border-bottom:1px solid #000;
+}
+.cc-chapterrow a{
+	text-decoration:none;
+}
+.cc-searchheader{
+	font-size:24px;
+	padding-bottom:10px;
+	font-weight:bold;
+}
+.cc-searchbox{
+	width:200px;
+	padding:10px;
+	float:left;
+}
+.cc-searchbox a{
+	text-decoration:none;
+}
+.cc-searchcomicname{
+	text-align:center;
+	width:200px;
+	font-weight:bold;
+	padding-bottom:5px;
+}
+.cc-searchcomicimgbox{
+	width:200px;
+	text-align:center;
+	height:200px;
+}
+.cc-searchcomicimgbox img{
+	max-width:200px;
+	max-height:200px;
+	width:auto;
+	height:auto;
+}
+.cc-searchprevnext{
+	padding:5px 0px;
+	text-align:center;
+	width:100%;
+	font-size:16px;
+}
+.cc-searchpages{
+	padding:5px 0px;
+	text-align:center;
+	width:100%;
+	font-size:16px;
+}
+.cc-blogtitle{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+}
+.cc-blogpublishtime{
+	padding-bottom:5px;
+	font-size:10px;
+}
+.cc-blogcontent{
+	padding:10px 0px;
+}
+.cc-transcript{
+	padding:10px 0px;
+}
+.cc-tagline{
+	padding:5px 0px;
+}
+.cc-blogcommentlink{
+	padding-top:10px;
+}
+.cc-blogcommentheader{
+	padding-top:10px;
+	font-weight:bold;
+	font-size:24px;
+}
+.cc-postdivider{
+	clear:both;
+	height:20px;
+}
+.cc-blogprevnext{
+	padding:5px 0px;
+	text-align:center;
+	width:100%;
+	font-size:16px;
+}
+.cc-blogpages{
+	padding:5px 0px;
+	text-align:center;
+	width:100%;
+	font-size:16px;
+}
+.cc-searchblogtitle{
+	padding:10px;
+	border-bottom:1px solid #000;
+}
